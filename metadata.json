@@ -1,0 +1,6 @@
+{
+  "name": "The 1996 Archive",
+  "description": "A modern, clean, editorial-style archival keepsake website featuring a main scrapbook museum gallery, love letter room, interactive chiptunes, and precision milestone tickers with high-end glassmorphism styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
